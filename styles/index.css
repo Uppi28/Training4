@@ -1,0 +1,58 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    color: white;
+    font-family: sans-serif;
+}
+.alignCenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.alignLeft {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.alignRight {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.noPadding{
+    padding: 0;
+}
+.noMargin{
+    margin: 0;
+}
+.height100{
+    height: 100%;
+}
+.width100{
+    width: 100%;
+}
+.width50 {
+    width: 50%;
+}
+.pull-right{
+    float: right;
+}
+.pull-left{
+    float: left;
+}
+.brown{
+    background: #7B7554;
+}
+.darkblue{
+    background: #17183B;
+}
+.purple{
+    background: #A11692;
+}
+.deepPink{
+    background: #FF4F79;
+}
+.skin{
+    background: #FFB49A;
+}
