@@ -94,7 +94,7 @@ ul > li:hover {
     width: calc(50% - 30px);
 }
 .chartIcon{
-    /* background: blue; */
+    width: calc(50% - 30px);
 } 
 .chartBody{
     height: 90%;

@@ -20,6 +20,9 @@ html, body {
     align-items: center;
     justify-content: flex-end;
 }
+.paddLR15{
+    padding: 0 15px;
+}
 .noPadding{
     padding: 0;
 }
